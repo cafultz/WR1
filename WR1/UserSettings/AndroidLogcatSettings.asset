@@ -1,0 +1,227 @@
+{
+    "m_SelectedDeviceId": "R52R10FFZNM",
+    "m_SelectedPackage": {
+        "deviceId": "R52R10FFZNM",
+        "name": "com.ChristopherFultz.WR1",
+        "processId": 31932,
+        "exited": false
+    },
+    "m_SelectedPriority": 4,
+    "m_KnownPackagesForSerialization": [
+        {
+            "deviceId": "R52R10FFZNM",
+            "name": "com.ChristopherFultz.WR1",
+            "processId": 22486,
+            "exited": true
+        },
+        {
+            "deviceId": "R52R10FFZNM",
+            "name": "com.ChristopherFultz.WR1",
+            "processId": 24042,
+            "exited": true
+        },
+        {
+            "deviceId": "R52R10FFZNM",
+            "name": "com.ChristopherFultz.WR1",
+            "processId": 25735,
+            "exited": true
+        },
+        {
+            "deviceId": "R52R10FFZNM",
+            "name": "com.ChristopherFultz.WR1",
+            "processId": 28488,
+            "exited": true
+        },
+        {
+            "deviceId": "R52R10FFZNM",
+            "name": "com.ChristopherFultz.WR1",
+            "processId": 25322,
+            "exited": true
+        },
+        {
+            "deviceId": "R52R10FFZNM",
+            "name": "com.ChristopherFultz.WR1",
+            "processId": 17781,
+            "exited": false
+        },
+        {
+            "deviceId": "R52R10FFZNM",
+            "name": "com.ChristopherFultz.WR1",
+            "processId": 10895,
+            "exited": false
+        },
+        {
+            "deviceId": "R52R10FFZNM",
+            "name": "com.ChristopherFultz.WR1",
+            "processId": 20131,
+            "exited": false
+        },
+        {
+            "deviceId": "R52R10FFZNM",
+            "name": "com.ChristopherFultz.WR1",
+            "processId": 24732,
+            "exited": false
+        },
+        {
+            "deviceId": "R52R10FFZNM",
+            "name": "com.ChristopherFultz.WR1",
+            "processId": 17595,
+            "exited": false
+        },
+        {
+            "deviceId": "R52R10FFZNM",
+            "name": "com.ChristopherFultz.WR1",
+            "processId": 20866,
+            "exited": false
+        },
+        {
+            "deviceId": "R52R10FFZNM",
+            "name": "com.ChristopherFultz.WR1",
+            "processId": 29521,
+            "exited": false
+        },
+        {
+            "deviceId": "R52R10FFZNM",
+            "name": "com.ChristopherFultz.WR1",
+            "processId": 32639,
+            "exited": false
+        },
+        {
+            "deviceId": "R52R10FFZNM",
+            "name": "com.ChristopherFultz.WR1",
+            "processId": 1380,
+            "exited": false
+        },
+        {
+            "deviceId": "R52R10FFZNM",
+            "name": "com.ChristopherFultz.WR1",
+            "processId": 5641,
+            "exited": false
+        },
+        {
+            "deviceId": "R52R10FFZNM",
+            "name": "com.ChristopherFultz.WR1",
+            "processId": 8764,
+            "exited": false
+        },
+        {
+            "deviceId": "R52R10FFZNM",
+            "name": "com.ChristopherFultz.WR1",
+            "processId": 8487,
+            "exited": false
+        },
+        {
+            "deviceId": "R52R10FFZNM",
+            "name": "com.ChristopherFultz.WR1",
+            "processId": 9753,
+            "exited": false
+        },
+        {
+            "deviceId": "R52R10FFZNM",
+            "name": "com.ChristopherFultz.WR1",
+            "processId": 26777,
+            "exited": false
+        },
+        {
+            "deviceId": "R52R10FFZNM",
+            "name": "com.ChristopherFultz.WR1",
+            "processId": 9127,
+            "exited": false
+        },
+        {
+            "deviceId": "R52R10FFZNM",
+            "name": "com.ChristopherFultz.WR1",
+            "processId": 11172,
+            "exited": false
+        },
+        {
+            "deviceId": "R52R10FFZNM",
+            "name": "com.ChristopherFultz.WR1",
+            "processId": 15980,
+            "exited": false
+        },
+        {
+            "deviceId": "R52R10FFZNM",
+            "name": "com.ChristopherFultz.WR1",
+            "processId": 13236,
+            "exited": false
+        },
+        {
+            "deviceId": "R52R10FFZNM",
+            "name": "com.ChristopherFultz.WR1",
+            "processId": 24226,
+            "exited": false
+        },
+        {
+            "deviceId": "R52R10FFZNM",
+            "name": "com.ChristopherFultz.WR1",
+            "processId": 29531,
+            "exited": false
+        },
+        {
+            "deviceId": "R52R10FFZNM",
+            "name": "com.ChristopherFultz.WR1",
+            "processId": 31683,
+            "exited": false
+        },
+        {
+            "deviceId": "R52R10FFZNM",
+            "name": "com.ChristopherFultz.WR1",
+            "processId": 31932,
+            "exited": false
+        }
+    ],
+    "m_Tags": {
+        "m_Entries": [
+            {
+                "m_Name": "Filter by all listed tags",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "No Filter",
+                "m_Selected": true
+            },
+            {
+                "m_Name": "",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "Tag Control...",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "Unity",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "CRASH",
+                "m_Selected": false
+            }
+        ]
+    },
+    "m_MemoryViewerState": {
+        "MemoryWindowHeight": 300.0,
+        "MemoryWindowWidth": 170.0,
+        "MemoryTypeEnabled": [
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true
+        ],
+        "MemoryGroup": 2,
+        "Behavior": 0
+    },
+    "m_Filter": "",
+    "m_FilterIsRegularExpression": false,
+    "m_SymbolPaths": []
+}
